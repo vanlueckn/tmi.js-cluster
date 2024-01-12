@@ -34,7 +34,7 @@
     "@babel/plugin-transform-class-properties": "^7.23.3",
     "@babel/plugin-transform-object-rest-spread": "^7.23.4",
     "@babel/preset-env": "^7.23.4",
-    "mysql": "^2.18.1",
+    "mysql2": "^3.7.0",
     "nodemon": "^3.0.2",
     "redis": "^4.6.12",
     "tmi.js": "^1.8.5"
